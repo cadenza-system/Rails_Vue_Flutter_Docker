@@ -6,7 +6,7 @@ Start
 docker-compose up -d
 ```
 
-Edit Container
+Controlle Container
 ```
 docker-compose run <api|webapp> sh
 ```
